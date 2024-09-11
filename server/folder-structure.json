@@ -1,0 +1,7 @@
+[
+    "src/controllers",
+    "src/middlewares",
+    "src/models",
+    "src/routes",
+    "src/config"
+]

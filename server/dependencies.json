@@ -1,0 +1,7 @@
+[
+    "express",
+    "dotenv",
+    "cors",
+    "mongoose",
+    "typescript"
+]

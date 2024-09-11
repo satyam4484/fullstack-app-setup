@@ -1,0 +1,13 @@
+[
+    "src/components",
+    "src/assets",
+    "src/constants",
+    "src/helpers",
+    "src/layouts",
+    "src/context",
+    "src/reducers",
+    "src/network",
+    "src/pages",
+    "src/routes",
+    "src/styles"
+]
