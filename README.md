@@ -78,7 +78,7 @@ The tool sets up the following folder structure:
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/fullstack-app-setup).
+Contributions are welcome! If you have any ideas or improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/satyam4484/fullstack-app-setup).
 
 ## License
 
