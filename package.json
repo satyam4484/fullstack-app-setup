@@ -1,6 +1,6 @@
 {
   "name": "fullstack-app-setup",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A CLI tool for setting up a full-stack React (client) and Node.js + TypeScript (server) project",
   "main": "index.js",
   "bin": {
