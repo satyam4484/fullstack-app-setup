@@ -1,13 +1,14 @@
 [
-    "src/components",
     "src/assets",
-    "src/constants",
-    "src/helpers",
-    "src/layouts",
+    "src/components",
+    "src/config",
     "src/context",
-    "src/reducers",
-    "src/network",
+    "src/features",
+    "src/hooks",
     "src/pages",
+    "src/reducers",
     "src/routes",
-    "src/styles"
+    "src/services",
+    "src/styles",
+    "src/utils"
 ]
